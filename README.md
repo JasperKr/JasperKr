@@ -14,5 +14,3 @@ I'm a software developer working mostly on my own projects at the moment, you ca
 - 📫 How to reach me: j.krocke@outlook.com or jaspersgames on discord</br>
 - 😄 Pronouns: he/him</br>
 </br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=jasperkr&theme=dark)](https://git.io/streak-stats)
