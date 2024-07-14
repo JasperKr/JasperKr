@@ -15,5 +15,4 @@ I'm a software developer working mostly on my own projects at the moment, you ca
 - 😄 Pronouns: he/him</br>
 </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JasperKr)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=jasperkr&theme=dark)](https://git.io/streak-stats)
