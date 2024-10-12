@@ -12,5 +12,4 @@ I'm a software developer working mostly on my own projects at the moment, you ca
 - 🌱 I’m currently learning more about realtime rendering</br>
 - 💬 Ask me about shader programming :)</br>
 - 📫 How to reach me: j.krocke@outlook.com or jaspersgames on discord</br>
-- 😄 Pronouns: he/him</br>
 </br>
